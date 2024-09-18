@@ -30,3 +30,30 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO specific files
+.pio/
+.pioenvs/
+.build/
+.vscode/
+
+# Libraries
+lib/*
+
+# Unit testing files
+.test/
+
+# User-specific files
+*.log
+*.pyc
+*.pyo
+*.pyd
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Project-specific IDE files
+*.ide
